@@ -1,0 +1,40 @@
+h2{
+  color: blue
+}
+p{
+  color: green
+}
+
+p{
+  color: pink
+}
+/*
+.button {
+  color: #FFF;
+  background-color: #5995DA;    * Blue *
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    * Dark gray *
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+} */
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+ /*
+span{
+  font-size: 900% ;
+}  */

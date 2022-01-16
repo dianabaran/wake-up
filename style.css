@@ -1,0 +1,47 @@
+
+
+
+body{
+  background-image: url(morning.jpg);
+      background-size: cover;
+  font-size: 26px;
+}
+
+
+h1{color:grey;
+border: 5px solid rgba(0, 0, 255, .4);
+background-color: pink;
+text-align:  center;
+}
+
+
+h2 {
+    color: blue
+}
+/* p {
+  color: purple
+} */
+
+ p{
+  color: black
+}
+
+li {
+    color: black;
+  */  list-style: none;*/
+    display: inline-block;
+}
+ /*li {
+    color: black
+}
+*/
+.boxmodel1{
+  border: 2px solid green;
+  /*display: inline-block;*/
+  padding: 20px 20px;
+  margin: 40px 30px;
+  width: 80px;
+
+  overflow-wrap: 0;
+  /*display:  inline-block;*/
+}
